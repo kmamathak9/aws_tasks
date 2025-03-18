@@ -1,8 +1,0 @@
-2025-03-18 15:16:45,304 [INFO] USER:konga_mamatha generate.py:72:project LOG: Project name: task03
-2025-03-18 15:16:45,305 [INFO] USER:konga_mamatha generate.py:79:project LOG: Project path: C:\Users\konga_mamatha\aws_tasks
-2025-03-18 15:16:45,311 [INFO] USER:konga_mamatha project.py:77:generate_project_structure LOG: Project task03 folder has been successfully created.
-2025-03-18 15:16:45,311 [INFO] USER:konga_mamatha helper.py:330:timed LOG: Stage project, elapsed time: 0:00:00.007184
-2025-03-18 15:17:45,208 [INFO] USER:konga_mamatha generate.py:72:project LOG: Project name: task03
-2025-03-18 15:17:45,228 [INFO] USER:konga_mamatha generate.py:79:project LOG: Project path: C:\Users\konga_mamatha\aws_tasks
-2025-03-18 15:17:55,573 [INFO] USER:konga_mamatha project.py:77:generate_project_structure LOG: Project task03 folder has been successfully created.
-2025-03-18 15:17:55,573 [INFO] USER:konga_mamatha helper.py:330:timed LOG: Stage project, elapsed time: 0:00:10.364658
